@@ -760,7 +760,7 @@ table {
 	left: 142px;
 	width: 28px;
 	height: 38px;
-	background: url(https://www.wodzudio.com/img/search.png);
+	background: url(https://www.wodzudio.com/usr/themes/Typecho-Joe-Themeimg/search.png);
 	background-size: 100% 100%;
 	transition: -webkit-transform 0.35s;
 	transition: transform 0.35s;
@@ -5114,7 +5114,7 @@ pre code {
 	border: none;
 	resize: none;
 	vertical-align: middle;
-	background: url("https://www.wodzudio.com/img/comment.png") right bottom no-repeat;
+	background: url("https://www.wodzudio.com/usr/themes/Typecho-Joe-Theme/img/comment.png") right bottom no-repeat;
 	transition: all 0.45s;
 	font-size: 14px;
 	color: var(--routine);	
