@@ -7241,11 +7241,11 @@ display: none!important;
 }
 /*阅读模式*/
 .read_book {
-        background: url(https://www.wodzudio.com/img/yuedu.png) var(--background) no-repeat center
+        background: url(https://cdn1.tianli0.top/gh/lemontea66/shoupa_CDN/typecho/joe/img/yuedu.png) var(--background) no-repeat center
     }
 
     .not_read_book {
-        background: url(https://www.wodzudio.com/img/yuedu1.png) var(--background) no-repeat center
+        background: url(https://cdn1.tianli0.top/gh/lemontea66/shoupa_CDN/typecho/joe/img/yuedu1.png) var(--background) no-repeat center
     }
 
     .read_book_button {
